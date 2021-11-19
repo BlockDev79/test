@@ -1,0 +1,14 @@
+{
+  "name": "Entertainer Punks",
+  "symbol": "EPUNKS",
+  "description": "Hip Hop Icons",
+  "seller_fee_basis_points": 500,
+  "image": "0.png",
+  "animation_url": "https://epunks.entertainerpunks.com/hiphoppunks/Epunk1.mp4",
+  "external_url": "https://entertainerpunks.com",
+  "Attributes": [{ "Attributes": "Platinum Chain" }],
+  "collection": { "Name": null, "family": "Hip Hop Punks", "EpunkId": 1 },
+  "creators": [
+    { "address": "y6FZBSEE2CWRSMYAeBiXGQtMZKgUoPXrVg5QGXFLUhi", "share": 100 }
+  ]
+}
